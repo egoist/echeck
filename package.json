@@ -7,7 +7,7 @@
     "cli.js"
   ],
   "scripts": {
-    "test": "echo lol"
+    "test": "echeck"
   },
   "repository": {
     "type": "git",
