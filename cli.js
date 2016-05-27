@@ -19,7 +19,7 @@ const cli = cac(`
     -v, --version     Print version
     -h, --help        Print help (You are here!)
 `, {
-  boolean: ['esnext', 'borwser', 'quiet'],
+  boolean: ['esnext', 'browser', 'quiet'],
   default: {
     ignore: [
       '**/node_modules/**',
