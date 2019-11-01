@@ -26,7 +26,7 @@
     "cac": "^1.0.0",
     "chalk": "^1.1.3",
     "co": "^4.6.0",
-    "eslint": "^2.10.2",
+    "eslint": "^6.6.0",
     "eslint-config-egoist": "latest",
     "figures": "^1.7.0",
     "globby": "^4.1.0"
